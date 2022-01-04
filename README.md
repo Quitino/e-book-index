@@ -33,8 +33,9 @@
 - [啊哈！算法](/home/q/documents/编程/数据结构/啊哈！算法.pdf)
 - [大话数据结构](/home/q/documents/编程/数据结构/大话数据结构.pdf)
 - [数据结构算法总结](/home/q/documents/编程/数据结构/数据结构算法总结.pdf)
-- [labuladong的刷题笔记v1.2](/home/q/documents/编程/数据结构/labuladong的刷题笔记v1.2.pdf)
 - [labuladong的算法秘籍v1.2](/home/q/documents/编程/数据结构/labuladong的算法秘籍v1.2.pdf)
+- [labuladong的刷题笔记v1.2](/home/q/documents/编程/数据结构/labuladong的刷题笔记v1.2.pdf)
+
 
 ###  1.7.设计模式
 
@@ -201,6 +202,7 @@
 - [计算机视觉中的多视图几何-第一版](/home/q/documents/图像处理与机器视觉/计算机视觉中的多视图几何-第一版.pdf)
 - [计算机视觉中的数学方法.吴福朝.科学出版社.2008](/home/q/documents/图像处理与机器视觉/计算机视觉中的数学方法.吴福朝.科学出版社.2008.pdf)
 - [计算机视觉—算法与应用](/home/q/documents/图像处理与机器视觉/计算机视觉—算法与应用.pdf)
+- [计算机图形学第4版](/home/q/documents/图像处理与机器视觉/计算机图形学第4版.pdf)
 
 
 
