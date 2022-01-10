@@ -52,6 +52,7 @@
 - [C++基础知识总结_终稿_300](/home/q/documents/编程/interview/C++基础知识总结_终稿_300.pdf)
 - [C++基础知识简单汇总_终稿106](/home/q/documents/编程/interview/C++基础知识简单汇总_终稿106.pdf)
 - [C++题目汇总终稿70](/home/q/documents/编程/interview/C++题目汇总终稿70.pdf)
+- [剑指offer](/home/q/documents/编程/interview/剑指offer第二版.pdf)
 
 ##  2.数学
 
