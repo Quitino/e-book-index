@@ -200,6 +200,10 @@
 - [预积分总结与公式推导20180827](/home/q/documents/SLAM/VINS/预积分总结与公式推导20180827.pdf)
 
 
+###  3.18.LiGroup
+
+- [SE(3)变换参数和流形优化教程](/home/q/documents/SLAM/LiGroup/SE(3)变换参数和流形优化教程.pdf)
+- [计算机视觉中的矩阵李群20160606](/home/q/documents/SLAM/LiGroup/计算机视觉中的矩阵李群20160606.pdf)
 
 ## 4.图像处理与机器视觉
 
