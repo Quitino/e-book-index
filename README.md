@@ -225,7 +225,9 @@
 
 
 
+## 5.四元数
 
+- [kinematics](/home/q/documents/SLAM/四元数/kinematics.pdf)
 
 
 ## 5.杂谈
