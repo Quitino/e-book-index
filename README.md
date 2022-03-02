@@ -234,7 +234,7 @@
 
 - [从一到无穷大](/home/q/documents/杂谈/从一到无穷大.pdf)
 - [浪潮之巅](/home/q/documents/杂谈/浪潮之巅.pdf)
-
+- [非暴力沟通](/home/q/documents/杂谈/非暴力沟通.pdf)
 
 
 ##  6.
