@@ -38,7 +38,7 @@
 - [数据结构算法总结](/home/q/documents/编程/数据结构/数据结构算法总结.pdf)
 - [labuladong的算法秘籍v1.2](/home/q/documents/编程/数据结构/labuladong的算法秘籍v1.2.pdf)
 - [labuladong的刷题笔记v1.2](/home/q/documents/编程/数据结构/labuladong的刷题笔记v1.2.pdf)
-
+- [00_代码随想录_二叉_回溯_贪心_动态](/home/q/documents/编程/数据结构/00_代码随想录_二叉_回溯_贪心_动态.pdf)
 
 ###  1.7.设计模式
 
