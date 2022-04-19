@@ -15,6 +15,8 @@
 - [More_Effective_C++中文版](/home/q/documents/编程/C++/More_Effective_C++中文版.pdf)
 - [泛型编程与STL](/home/q/documents/编程/C++/泛型编程与STL.pdf)
 - [现代_C++_教程](/home/q/documents/编程/C++/现代_C++_教程.pdf)
+- [C++性能优化指南](/home/q/documents/编程/C++/C++性能优化指南.pdf)
+
 
 ###  1.3.Cmake
 
@@ -72,6 +74,8 @@
 ### 2.1.数值优化
 
 - [num_optimization](/home/q/documents/数学/数值优化/num_optimization.pdf)
+- [数值分析](/home/q/documents/数学/数值优化/数值分析.pdf)
+- [计算方法_第2版](/home/q/documents/数学/数值优化/计算方法_第2版.pdf)
 
 ### 2.2.概率论与数理统计
 
@@ -101,6 +105,13 @@
 - [math_notes数学笔记](/home/q/documents/数学/高数/math_notes数学笔记.pdf)
 - [考研数学知识点-高等数学](/home/q/documents/数学/高数/考研数学知识点-高等数学.pdf)
 
+###  2.6.计算几何
+
+- [Practical_Geometry_Algorithms](/home/q/documents/数学/计算几何/Practical_Geometry_Algorithms.pdf)  
+- [几何学](/home/q/documents/数学/计算几何/几何学.pdf)  
+- [计算几何算法与实现](/home/q/documents/数学/计算几何/计算几何算法与实现.pdf)  
+- [计算几何_算法与应用(第三版)](/home/q/documents/数学/计算几何/计算几何_算法与应用(第三版).pdf)  
+- [计算几何_算法设计与分析-周培德](/home/q/documents/数学/计算几何/计算几何_算法设计与分析-周培德.pdf)  
 
 
 ##  3.SLAM
