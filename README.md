@@ -1,7 +1,7 @@
 ## 1.编程
 
 - [Google_C++_Style](/home/q/documents/编程/google.png)
-- [常用算法程序集(第五版)](常用算法程序集(第五版).pdf)
+- [常用算法程序集(第五版)](/home/q/documents/编程/常用算法程序集(第五版).pdf)
 ###  1.1.C
 
 - [C语言深度剖析](/home/q/documents/编程/C/C语言深度剖析.pdf)
