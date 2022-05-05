@@ -16,7 +16,7 @@
 - [泛型编程与STL](/home/q/documents/编程/C++/泛型编程与STL.pdf)
 - [现代_C++_教程](/home/q/documents/编程/C++/现代_C++_教程.pdf)
 - [C++性能优化指南](/home/q/documents/编程/C++/C++性能优化指南.pdf)
-
+- [C++新经典](/home/q/documents/编程/C++/C++新经典.pdf)
 
 ###  1.3.Cmake
 
