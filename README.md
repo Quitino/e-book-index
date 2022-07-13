@@ -131,7 +131,7 @@
 
 ##  3.SLAM
 
-- [SLAM for Dummies.pdf](/home/q/documents/SLAM/SLAM for Dummies.pdf)
+- [SLAM for Dummies.pdf](/home/q/documents/SLAM/SLAMforDummies.pdf)
 - [概率图模型-原理与技术_清华大学出版社.pdf](/home/q/documents/SLAM/概率图模型-原理与技术_清华大学出版社.pdf)
 
 ### 3.1.2d-lidar
@@ -234,13 +234,13 @@
 - [SE(3)变换参数和流形优化教程](/home/q/documents/SLAM/LiGroup/SE(3)变换参数和流形优化教程.pdf)
 - [计算机视觉中的矩阵李群20160606](/home/q/documents/SLAM/LiGroup/计算机视觉中的矩阵李群20160606.pdf)
 - [采用Hamilton四元数的低成本IMU误差方程详细推导-邱笑晨](/home/q/documents/SLAM/LiGroup/采用Hamilton四元数的低成本IMU误差方程详细推导-邱笑晨.pdf)
-- [Quaternion kinematics for the error-state Kalman filter_noted](/home/q/documents/SLAM/LiGroup/Quaternion kinematics for the error-state Kalman filter_noted.pdf)
+- [Quaternion kinematics for the error-state Kalman filter_noted](/home/q/documents/SLAM/LiGroup/Quaternion_kinematics_for_the_error-state_Kalman_filter_noted.pdf)
 - [基于误差状态卡尔曼滤波器的四元数运动学_V1](/home/q/documents/SLAM/LiGroup/基于误差状态卡尔曼滤波器的四元数运动学_V1.pdf)
 - [基于误差状态卡尔曼滤波器的四元数运动学_V2](/home/q/documents/SLAM/LiGroup/基于误差状态卡尔曼滤波器的四元数运动学_V2.pdf)
 
 ###  3.19.MultiSensorDataFusion
 
-- [Multi-Sensor Data Fusion An Introduction (H.B. Mitchell).pdf](/home/q/documents/SLAM/MultiSensorDataFusion/Multi-Sensor Data Fusion An Introduction (H.B. Mitchell).pdf)
+- [Multi-Sensor Data Fusion An Introduction (H.B. Mitchell).pdf](/home/q/documents/SLAM/MultiSensorDataFusion/Multi-Sensor_Data_Fusion_An_Introduction.pdf)
 
 
 
