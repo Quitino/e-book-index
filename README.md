@@ -123,7 +123,7 @@
 
 ###  2.6.计算几何
 
-- [Practical_Geometry_Algorithms](/home/q/documents/数学/计算几何/Practical_Geometry_Algorithms.pdf)  pdftk e1.pdf 基于误差状态卡尔曼滤波器的四元数运动学_V2.pdf  基于误差状态卡尔曼滤波器的四元数运动学_V1.pdf  cat output  eskf_print.pdf
+- [Practical_Geometry_Algorithms](/home/q/documents/数学/计算几何/Practical_Geometry_Algorithms.pdf)  
 - [几何学](/home/q/documents/数学/计算几何/几何学.pdf)  
 - [计算几何算法与实现](/home/q/documents/数学/计算几何/计算几何算法与实现.pdf)  
 - [计算几何_算法与应用(第三版)](/home/q/documents/数学/计算几何/计算几何_算法与应用(第三版).pdf)  
@@ -167,7 +167,7 @@
 - [An_Introduction_to_the_Kalman_Filter](/home/q/documents/SLAM/EKF/An_Introduction_to_the_Kalman_Filter.pdf)
 - [EKF_SLAM](/home/q/documents/SLAM/EKF/EKF_SLAM.pdf)
 
-### 3.6.FEJpdftk e1.pdf 基于误差状态卡尔曼滤波器的四元数运动学_V2.pdf  基于误差状态卡尔曼滤波器的四元数运动学_V1.pdf  cat output  eskf_print.pdf
+### 3.6.FEJ
 
 - [FEJ论文推导_崔华坤](/home/q/documents/SLAM/FEJ/FEJ论文推导_崔华坤.pdf)
 
