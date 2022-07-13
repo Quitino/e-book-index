@@ -31,6 +31,7 @@
 
 - [多线程编程指南](/home/q/documents/编程/多线程/多线程编程指南.pdf)
 - [Boost程序库完全开发指南](/home/q/documents/编程/多线程/Boost程序库完全开发指南.pdf)
+- [C++并发编程实战(中文版).pdf](/home/q/documents/编程/多线程/C++并发编程实战(中文版).pdf)
 
 ###  1.6.数据结构
 
@@ -41,6 +42,7 @@
 - [labuladong的算法秘籍v1.2](/home/q/documents/编程/数据结构/labuladong的算法秘籍v1.2.pdf)
 - [labuladong的刷题笔记v1.2](/home/q/documents/编程/数据结构/labuladong的刷题笔记v1.2.pdf)
 - [00_代码随想录_二叉_回溯_贪心_动态](/home/q/documents/编程/数据结构/00_代码随想录_二叉_回溯_贪心_动态.pdf)
+- [数据结构_浙大PPT](/home/q/documents/编程/数据结构/数据结构_浙大PPT.pdf)
 
 ###  1.7.设计模式
 
@@ -69,13 +71,27 @@
 
 
 
+###  1.10.算法
+
+- [常用算法程序集(第五版)](/home/q/documents/编程/算法/常用算法程序集(第五版).pdf)
+- [算法图解](/home/q/documents/编程/算法/算法图解.pdf)
+- [常用算法手册.pdf](/home/q/documents/编程/算法/常用算法手册.pdf)
+
+
+
+
+
 ##  2.数学
 
 ### 2.1.数值优化
 
-- [num_optimization](/home/q/documents/数学/数值优化/num_optimization.pdf)
-- [数值分析](/home/q/documents/数学/数值优化/数值分析.pdf)
+- [C++数值算法](/home/q/documents/数学/数值优化/C++数值算法.pdf)
+- [数值分析_金凯德等著王国荣等译](/home/q/documents/数学/数值优化/数值分析_金凯德等著王国荣等译.pdf)
+- [num_optimization](/home/q/documents/数学/数值优化/num_optimization.pdf)     
+- [数值分析_陈欣](/home/q/documents/数学/数值优化/数值分析_陈欣.pdf)
+- [数值分析与算法_喻文健](/home/q/documents/数学/数值优化/数值分析与算法_喻文健.pdf)
 - [计算方法_第2版](/home/q/documents/数学/数值优化/计算方法_第2版.pdf)
+- [数值分析_第五版_李庆扬](/home/q/documents/数学/数值优化/数值分析_第五版_李庆扬.pdf)
 
 ### 2.2.概率论与数理统计
 
@@ -107,14 +123,16 @@
 
 ###  2.6.计算几何
 
-- [Practical_Geometry_Algorithms](/home/q/documents/数学/计算几何/Practical_Geometry_Algorithms.pdf)  
+- [Practical_Geometry_Algorithms](/home/q/documents/数学/计算几何/Practical_Geometry_Algorithms.pdf)  pdftk e1.pdf 基于误差状态卡尔曼滤波器的四元数运动学_V2.pdf  基于误差状态卡尔曼滤波器的四元数运动学_V1.pdf  cat output  eskf_print.pdf
 - [几何学](/home/q/documents/数学/计算几何/几何学.pdf)  
 - [计算几何算法与实现](/home/q/documents/数学/计算几何/计算几何算法与实现.pdf)  
 - [计算几何_算法与应用(第三版)](/home/q/documents/数学/计算几何/计算几何_算法与应用(第三版).pdf)  
 - [计算几何_算法设计与分析-周培德](/home/q/documents/数学/计算几何/计算几何_算法设计与分析-周培德.pdf)  
 
-
 ##  3.SLAM
+
+- [SLAM for Dummies.pdf](/home/q/documents/SLAM/SLAM for Dummies.pdf)
+- [概率图模型-原理与技术_清华大学出版社.pdf](/home/q/documents/SLAM/概率图模型-原理与技术_清华大学出版社.pdf)
 
 ### 3.1.2d-lidar
 
@@ -149,7 +167,7 @@
 - [An_Introduction_to_the_Kalman_Filter](/home/q/documents/SLAM/EKF/An_Introduction_to_the_Kalman_Filter.pdf)
 - [EKF_SLAM](/home/q/documents/SLAM/EKF/EKF_SLAM.pdf)
 
-### 3.6.FEJ
+### 3.6.FEJpdftk e1.pdf 基于误差状态卡尔曼滤波器的四元数运动学_V2.pdf  基于误差状态卡尔曼滤波器的四元数运动学_V1.pdf  cat output  eskf_print.pdf
 
 - [FEJ论文推导_崔华坤](/home/q/documents/SLAM/FEJ/FEJ论文推导_崔华坤.pdf)
 
@@ -215,11 +233,33 @@
 
 - [SE(3)变换参数和流形优化教程](/home/q/documents/SLAM/LiGroup/SE(3)变换参数和流形优化教程.pdf)
 - [计算机视觉中的矩阵李群20160606](/home/q/documents/SLAM/LiGroup/计算机视觉中的矩阵李群20160606.pdf)
+- [采用Hamilton四元数的低成本IMU误差方程详细推导-邱笑晨](/home/q/documents/SLAM/LiGroup/采用Hamilton四元数的低成本IMU误差方程详细推导-邱笑晨.pdf)
+- [Quaternion kinematics for the error-state Kalman filter_noted](/home/q/documents/SLAM/LiGroup/Quaternion kinematics for the error-state Kalman filter_noted.pdf)
+- [基于误差状态卡尔曼滤波器的四元数运动学_V1](/home/q/documents/SLAM/LiGroup/基于误差状态卡尔曼滤波器的四元数运动学_V1.pdf)
+- [基于误差状态卡尔曼滤波器的四元数运动学_V2](/home/q/documents/SLAM/LiGroup/基于误差状态卡尔曼滤波器的四元数运动学_V2.pdf)
+
+###  3.19.MultiSensorDataFusion
+
+- [Multi-Sensor Data Fusion An Introduction (H.B. Mitchell).pdf](/home/q/documents/SLAM/MultiSensorDataFusion/Multi-Sensor Data Fusion An Introduction (H.B. Mitchell).pdf)
+
+
+
+###  3.20.robot
+
+- [应用机器人学：运动学、动力学与控制技术](/home/q/documents/slam/robot/应用机器人学：运动学、动力学与控制技术.pdf)
+- [最优状态估计](/home/q/documents/slam/robot/最优状态估计.pdf)
+- [机器人学基础理论与应用实践](/home/q/documents/slam/robot/机器人学基础理论与应用实践.pdf)
+- [机器人学基础_蔡自兴](/home/q/documents/slam/robot/机器人学基础_蔡自兴.pdf)
+- [机器人学导论分析控制及应用](/home/q/documents/slam/robot/机器人学导论分析控制及应用.pdf)
+- [机器人学导论_原书第4版](/home/q/documents/slam/robot/机器人学导论_原书第4版.pdf)
+- [机器人学_第3版_蔡自兴谢斌编著](/home/q/documents/slam/robot/机器人学_第3版_蔡自兴谢斌编著.pdf)
+- [机器人机构学的数学基础_第2版_于靖军](/home/q/documents/slam/robot/机器人机构学的数学基础_第2版_于靖军.pdf)
+- [视觉SLAM十四讲从理论到实践_第2版_高翔](/home/q/documents/slam/robot/视觉SLAM十四讲从理论到实践_第2版_高翔.pdf)
 
 ## 4.图像处理与机器视觉
 
 - [PRML_Chinese_vision模式识别与机器学习](/home/q/documents/图像处理与机器视觉/PRML_Chinese_vision模式识别与机器学习.pdf)
-- [多视角集合全](/home/q/documents/图像处理与机器视觉/多视角集合全.pdf)
+- [多视角几何](/home/q/documents/图像处理与机器视觉/多视角几何.pdf)
 - [机器学习课件全集v1-黄海广](/home/q/documents/图像处理与机器视觉/机器学习课件全集v1-黄海广.pdf)
 - [机器视觉](/home/q/documents/图像处理与机器视觉/机器视觉.pdf)
 - [机器视觉-张广军](/home/q/documents/图像处理与机器视觉/机器视觉-张广军.pdf)
@@ -233,6 +273,10 @@
 - [计算机视觉—算法与应用](/home/q/documents/图像处理与机器视觉/计算机视觉—算法与应用.pdf)
 - [计算机图形学第4版](/home/q/documents/图像处理与机器视觉/计算机图形学第4版.pdf)
 - [计算机图形学基础教程(Visual.C++版)](/home/q/documents/图像处理与机器视觉/计算机图形学基础教程(Visual.C++版).pdf)
+- [《视觉几何三维重建-OpenMVS源码解析》课程手册9.28](/home/q/documents/图像处理与机器视觉/《视觉几何三维重建-OpenMVS源码解析》课程手册9.28.pdf)
+- [机器学习周志华.pdf](/home/q/documents/图像处理与机器视觉/机器学习周志华.pdf)
+- [PRML_Chinese_vision模式识别与机器学习](/home/q/documents/图像处理与机器视觉/PRML_Chinese_vision模式识别与机器学习.pdf)
+- [[2014]机器学习个人笔记完整版v5.1](/home/q/documents/图像处理与机器视觉/[2014]机器学习个人笔记完整版v5.1.pdf)
 
 
 
@@ -241,12 +285,29 @@
 - [kinematics](/home/q/documents/SLAM/四元数/kinematics.pdf)
 
 
-## 5.杂谈
+
+##  6.导航
+
+- [卡尔曼滤波与组合导航原理](/home/q/documents/导航/卡尔曼滤波与组合导航原理.pdf)
+- [卡尔曼滤波与组合导航原理](/home/q/documents/导航/卡尔曼滤波与组合导航原理.pdf) 
+- [惯性技术基础](/home/q/documents/导航/惯性技术基础.pdf)
+- [哈工大_陀螺仪原理及应用](/home/q/documents/导航/哈工大_陀螺仪原理及应用.pdf)
+- [捷联式惯性导航](/home/q/documents/导航/捷联式惯性导航.pdf)
+- [惯导系统陀螺仪理论](/home/q/documents/导航/惯导系统陀螺仪理论.pdf)   
+- [捷联式惯性导航原理_袁信,郑锷](/home/q/documents/导航/捷联式惯性导航原理_袁信,郑锷.pdf)
+- [惯性器件_陆元九_上册](/home/q/documents/导航/惯性器件_陆元九_上册.pdf)
+- [捷联式惯性导航系统](/home/q/documents/导航/捷联式惯性导航系统.pdf)
+- [惯性导航_秦永元](/home/q/documents/导航/惯性导航_秦永元.pdf)      
+- [捷联惯性导航技术第二版](/home/q/documents/导航/捷联惯性导航技术第二版.pdf)
+
+
+## 7.杂谈
 
 - [从一到无穷大](/home/q/documents/杂谈/从一到无穷大.pdf)
 - [浪潮之巅](/home/q/documents/杂谈/浪潮之巅.pdf)
 - [非暴力沟通](/home/q/documents/杂谈/非暴力沟通.pdf)
 
+##  8.blog
 
-##  6.
+- [深入探索单例设计模式_以百度Apollo为例](/home/q/documents/blog/深入探索单例设计模式_以百度Apollo为例.pdf)
 
